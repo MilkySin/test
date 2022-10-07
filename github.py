@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
 
-from urllib import request
+import sys
 import requests
 import json
-
-# test
 
 
 def get_name():
@@ -26,7 +24,10 @@ def get_repo(username):
 
 
 def main():
-    username = get_name()
+    if len(sys.argv) > 1:
+        username = sys.argv[1]
+    else:
+        username = get_name()
     repos = get_repo(username)
     for i in repos:
         print(i)
