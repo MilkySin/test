@@ -1,1 +1,705 @@
-{'type': 'FeatureCollection', 'features': [{'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0149875, 105.8299855]}, 'properties': {'address': '135 Trần Hữu Tước, Nam Đồng, Đống Đa, Đống Đa, Hà Nội', 'name': 'Đồ Uống Nhập Khẩu DUNK'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0084868, 105.8384594]}, 'properties': {'address': '7-9 Đào Duy ANh, Quận Đống Đa, Hà Nội, Kim Liên, Đống Đa, Hà Nội', 'name': 'Nga Vinh II - Bia Hơi Hà Nội'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0189719, 105.8216178]}, 'properties': {'address': '68 P. Mai Anh Tuấn, Chợ Dừa, Đống Đa, Hà Nội', 'name': 'Bia Hà Nội (Beer) 68 Mai Anh Tuấn'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0144518, 105.823778]}, 'properties': {'address': '75 P. Trần Quang Diệu, Chợ Dừa, Đống Đa, Hà Nội', 'name': 'Bia Hơi Hà Nội - Beer Vũ'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0111662, 105.8322375]}, 'properties': {'address': '103 D7 Trung Tự, Trung Tự, Đống Đa, Hà Nội', 'name': 'Bia tươi Thịnh Lơ'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.026412, 105.839935]}, 'properties': {'address': '1 P. Trần Quý Cáp, Văn Chương, Đống Đa, Hà Nội', 'name': 'Quán Bia Đường Sắt'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0142388, 105.8040635]}, 'properties': {'address': '19 Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội', 'name': 'Nhà Hàng Bia Hơi Giờ Thứ 9'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0188535, 105.8215599]}, 'properties': {'address': '86 P. Mai Anh Tuấn, Chợ Dừa, Đống Đa, Hà Nội', 'name': 'Bia Hơi Dũng Béo 86 Mai Anh Tuấn'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0007348, 105.8348078]}, 'properties': {'address': '2R2M+7WV, Ng. 120 Trường Chinh, Phương Đình,', 'name': 'Bia Hưng Hà'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0113184, 105.8315234]}, 'properties': {'address': '108 D1 P. Đặng Văn Ngữ, Nam Đồng, Đống Đa, Hà Nội', 'name': 'Bia Dũng Bảo Khánh'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0072126, 105.8213347]}, 'properties': {'address': '96 P. Thái Thịnh, Ngã Tư Sở, Đống Đa, Hà Nội', 'name': 'CLB Bia tươi Gavina'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0269355, 105.8327699]}, 'properties': {'address': '24 P. Đặng Trần Côn, Quốc Tử Giám, Đống Đa, Hà Nội', 'name': 'Bia hơi Thành Đen'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0079584, 105.8344228]}, 'properties': {'address': 'B13 P. Lương Định Của, Kim Liên, Đống Đa, Hà Nội', 'name': 'Bia Hơi Phú Thành'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0190923, 105.8412368]}, 'properties': {'address': '138 Đ. Lê Duẩn, Khâm Thiên, Đống Đa, Hà Nội', 'name': 'Quán Bia Hơi Cường Nga'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0186894, 105.8027828]}, 'properties': {'address': '816 Đ. Láng, Trung Hoà, Đống Đa, Hà Nội', 'name': 'Quán Bia Mẫn'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0238162, 105.814834]}, 'properties': {'address': '104 Đ. La Thành, Khu tập thể Bắc Thành Công, Ba Đình, Hà Nội', 'name': 'Thành Công Bia'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0058857, 105.8225827]}, 'properties': {'address': '314 P. Tây Sơn, Ngã Tư Sở, Hoàn Kiếm, Hà Nội', 'name': 'Bia Hơi Hà Nội'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0250609, 105.8416248]}, 'properties': {'address': '99 Đ. Lê Duẩn, Văn Miếu, Hoàn Kiếm, Hà Nội', 'name': 'iBiero Craft Beer Station'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [20.9993141, 105.8064966]}, 'properties': {'address': '25 Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội', 'name': 'Bia Sang Trọc'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0282099, 105.8275513]}, 'properties': {'address': '39 P. Cát Linh, Chợ Dừa, Đống Đa, Hà Nội', 'name': 'Quán Bia Hơi Số 39'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0280772, 105.8391975]}, 'properties': {'address': '63 P. Nguyễn Khuyến, Văn Miếu, Đống Đa, Hà Nội', 'name': 'Quán Bia Xuân Trường'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.009258, 105.8313664]}, 'properties': {'address': '77 P. Đặng Văn Ngữ, Trung Tự, Đống Đa, Hà Nội', 'name': 'Thanh Thanh Bia hơi Hà Nội'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0186787, 105.8226956]}, 'properties': {'address': '2R9F+F33, Mai Anh Tuấn, Chợ Dừa,', 'name': 'Lão Hạc Beer'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0156217, 105.8126787]}, 'properties': {'address': '8 P. Hoàng Ngọc Phách, Khu tập thể Nam Thành Công, Đống Đa, Hà Nội', 'name': 'Quán Bia Tươi - Hương Lúa'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [20.9966519, 105.8282292]}, 'properties': {'address': '44 P. Hoàng Văn Thái, Khương Mai, Thanh Xuân, Hà Nội', 'name': 'Quán Bia Hơi Hà Nội'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0189579, 105.8216111]}, 'properties': {'address': '72 P. Mai Anh Tuấn, Chợ Dừa, Đống Đa, Hà Nội', 'name': 'Nhà Hàng Bia Henninger Tính Thúy'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0132679, 105.8393503]}, 'properties': {'address': '42 P. Ô Đồng Lầm, Phương Liên, Đống Đa, Hà Nội', 'name': 'Boombeer mường phăng'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0197415, 105.8104799]}, 'properties': {'address': 'ngách 40 Ngõ 91 Nguyễn Chí Thanh, Thành Công, Ba Đình, Hà Nội', 'name': 'Quán Bia Thành Béo'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0134713, 105.824824]}, 'properties': {'address': '2R7F+9WP, Quang Trung,', 'name': 'Bia Đỏ - Bia thủ công Pirate - Quán Nhỏ 2'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0125141, 105.8173167]}, 'properties': {'address': '48 P.Yên Lãng, Láng Hạ, Đống Đa, Hà Nội', 'name': 'Bia Hơi Huyền Hương 48 Yên Lãng'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0284664, 105.8177513]}, 'properties': {'address': '2RH9+93P, Phố Ngọc Khánh, Giảng Võ,', 'name': 'Bia Đỏ - Bia thủ công Pirate - Quán Nhỏ'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0073725, 105.8191482]}, 'properties': {'address': '25 Ng. 113 P. Vĩnh Hồ, Thịnh Quang, Đống Đa, Hà Nội', 'name': 'Bia Huy Ộp'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0107136, 105.8403155]}, 'properties': {'address': '302 P. Ô Đồng Lầm, Phương Liên, Đống Đa, Hà Nội', 'name': 'Bia hơi Lộc Vừng'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0000042, 105.8163333]}, 'properties': {'address': '129 Đ. Nguyễn Trãi, Thượng Đình, Thanh Xuân, Hà Nội', 'name': 'Bia Hơi Đức Anh'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [20.9978586, 105.812054]}, 'properties': {'address': '222 Đ. Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội', 'name': 'Bia Heineken 222'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [20.9981489, 105.8292178]}, 'properties': {'address': 'Số 3 P. Lê Trọng Tấn, Định Công, Thanh Xuân, Hà Nội', 'name': 'Bia Phòng Không'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0089017, 105.8209085]}, 'properties': {'address': '70 Ng. 298 Tây Sơn, Ngã Tư Sở, Đống Đa, Hà Nội', 'name': 'Vườn Bia G Point'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.026646, 105.838698]}, 'properties': {'address': '49 Ngõ Ngô Sỹ Liên, Văn Miếu, Đống Đa, Hà Nội', 'name': 'Quán Bia 49 Ngô Sỹ Liên'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0146449, 105.8173978]}, 'properties': {'address': '165 P. Thái Hà, Chợ Dừa, Đống Đa, Hà Nội', 'name': 'Quán Bia Hơi Hà Nội'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0192318, 105.8119977]}, 'properties': {'address': 'Unnamed Road,', 'name': 'Quán Bia Minh Phích'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0305121, 105.827012]}, 'properties': {'address': '11 P. Giang Văn Minh, Kim Mã, Ba Đình, Hà Nội', 'name': 'Nhà Hàng Bia Tươi Đức & Thái Lan'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [20.9999255, 105.8076162]}, 'properties': {'address': '1 Nguyễn Huy Tưởng, Thanh Xuân Trung, Thanh Xuân, Hà Nội', 'name': 'Bia AMY'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0177745, 105.8117286]}, 'properties': {'address': '26 P. Nguyên Hồng, Láng Hạ, Đống Đa, Hà Nội', 'name': 'Quán Bia A2'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [20.9997286, 105.8244301]}, 'properties': {'address': '94 P. Nguyễn Ngọc Nại, Khương Mai, Thanh Xuân, Hà Nội', 'name': 'Bia Bát Quán'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0261514, 105.8324868]}, 'properties': {'address': '21 P. Đoàn Thị Điểm, Quốc Tử Giám, Đống Đa, Hà Nội', 'name': 'Bia Tuấn Đạt'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [20.9999336, 105.8304173]}, 'properties': {'address': '173b Đ. Trường Chinh, Khương Mai, Thanh Xuân, Hà Nội', 'name': 'Vườn bia Cảnh Hồ'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0023006, 105.8094934]}, 'properties': {'address': '28 P. Nhân Hòa, Thanh Xuân Trung, Thanh Xuân, Hà Nội', 'name': 'Bia Phủi 28'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.0051545, 105.8259005]}, 'properties': {'address': '2R4G+392, P. Khương Thượng, Trung Liệt,', 'name': 'Quán bia Tiến Đạt'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.027009, 105.8282103]}, 'properties': {'address': '212 P. Hào Nam, Chợ Dừa, Đống Đa, Hà Nội', 'name': 'Quán Bia Hơi Hà Nội Liên Đoàn'}}, {'type': 'Feature', 'geometry': {'type': 'Point', 'coordinates': [21.028176, 105.8224687]}, 'properties': {'address': '108BC8, Giảng Võ, Ba Đình, Hà Nội', 'name': 'Beer 24H'}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0149875,
+          105.8299855
+        ]
+      },
+      "properties": {
+        "address": "135 Tr\u1ea7n H\u1eefu T\u01b0\u1edbc, Nam \u0110\u1ed3ng, \u0110\u1ed1ng \u0110a, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "\u0110\u1ed3 U\u1ed1ng Nh\u1eadp Kh\u1ea9u DUNK"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0084868,
+          105.8384594
+        ]
+      },
+      "properties": {
+        "address": "7-9 \u0110\u00e0o Duy ANh, Qu\u1eadn \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i, Kim Li\u00ean, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Nga Vinh II - Bia H\u01a1i H\u00e0 N\u1ed9i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0189719,
+          105.8216178
+        ]
+      },
+      "properties": {
+        "address": "68 P. Mai Anh Tu\u1ea5n, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Bia H\u00e0 N\u1ed9i (Beer) 68 Mai Anh Tu\u1ea5n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0144518,
+          105.823778
+        ]
+      },
+      "properties": {
+        "address": "75 P. Tr\u1ea7n Quang Di\u1ec7u, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Bia H\u01a1i H\u00e0 N\u1ed9i - Beer V\u0169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0111662,
+          105.8322375
+        ]
+      },
+      "properties": {
+        "address": "103 D7 Trung T\u1ef1, Trung T\u1ef1, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Bia t\u01b0\u01a1i Th\u1ecbnh L\u01a1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.026412,
+          105.839935
+        ]
+      },
+      "properties": {
+        "address": "1 P. Tr\u1ea7n Qu\u00fd C\u00e1p, V\u0103n Ch\u01b0\u01a1ng, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Qu\u00e1n Bia \u0110\u01b0\u1eddng S\u1eaft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0142388,
+          105.8040635
+        ]
+      },
+      "properties": {
+        "address": "19 Tr\u1ea7n Duy H\u01b0ng, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i",
+        "name": "Nh\u00e0 H\u00e0ng Bia H\u01a1i Gi\u1edd Th\u1ee9 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0188535,
+          105.8215599
+        ]
+      },
+      "properties": {
+        "address": "86 P. Mai Anh Tu\u1ea5n, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Bia H\u01a1i D\u0169ng B\u00e9o 86 Mai Anh Tu\u1ea5n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0007348,
+          105.8348078
+        ]
+      },
+      "properties": {
+        "address": "2R2M+7WV, Ng. 120 Tr\u01b0\u1eddng Chinh, Ph\u01b0\u01a1ng \u0110\u00ecnh,",
+        "name": "Bia H\u01b0ng H\u00e0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0113184,
+          105.8315234
+        ]
+      },
+      "properties": {
+        "address": "108 D1 P. \u0110\u1eb7ng V\u0103n Ng\u1eef, Nam \u0110\u1ed3ng, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Bia D\u0169ng B\u1ea3o Kh\u00e1nh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0072126,
+          105.8213347
+        ]
+      },
+      "properties": {
+        "address": "96 P. Th\u00e1i Th\u1ecbnh, Ng\u00e3 T\u01b0 S\u1edf, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "CLB Bia t\u01b0\u01a1i Gavina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0269355,
+          105.8327699
+        ]
+      },
+      "properties": {
+        "address": "24 P. \u0110\u1eb7ng Tr\u1ea7n C\u00f4n, Qu\u1ed1c T\u1eed Gi\u00e1m, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Bia h\u01a1i Th\u00e0nh \u0110en"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0079584,
+          105.8344228
+        ]
+      },
+      "properties": {
+        "address": "B13 P. L\u01b0\u01a1ng \u0110\u1ecbnh C\u1ee7a, Kim Li\u00ean, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Bia H\u01a1i Phu\u0301 Tha\u0300nh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0190923,
+          105.8412368
+        ]
+      },
+      "properties": {
+        "address": "138 \u0110. L\u00ea Du\u1ea9n, Kh\u00e2m Thi\u00ean, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Qu\u00e1n Bia H\u01a1i C\u01b0\u1eddng Nga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0186894,
+          105.8027828
+        ]
+      },
+      "properties": {
+        "address": "816 \u0110. L\u00e1ng, Trung Ho\u00e0, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Qu\u00e1n Bia M\u1eabn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0238162,
+          105.814834
+        ]
+      },
+      "properties": {
+        "address": "104 \u0110. La Th\u00e0nh, Khu t\u1eadp th\u1ec3 B\u1eafc Th\u00e0nh C\u00f4ng, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i",
+        "name": "Th\u00e0nh C\u00f4ng Bia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0058857,
+          105.8225827
+        ]
+      },
+      "properties": {
+        "address": "314 P. T\u00e2y S\u01a1n, Ng\u00e3 T\u01b0 S\u1edf, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+        "name": "Bia H\u01a1i H\u00e0 N\u1ed9i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0250609,
+          105.8416248
+        ]
+      },
+      "properties": {
+        "address": "99 \u0110. L\u00ea Du\u1ea9n, V\u0103n Mi\u1ebfu, Ho\u00e0n Ki\u1ebfm, H\u00e0 N\u1ed9i",
+        "name": "iBiero Craft Beer Station"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9993141,
+          105.8064966
+        ]
+      },
+      "properties": {
+        "address": "25 Nguy\u1ec5n Huy T\u01b0\u1edfng, Thanh Xu\u00e2n Trung, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i",
+        "name": "Bia Sang Tr\u1ecdc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0282099,
+          105.8275513
+        ]
+      },
+      "properties": {
+        "address": "39 P. C\u00e1t Linh, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Qu\u00e1n Bia H\u01a1i S\u1ed1 39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0280772,
+          105.8391975
+        ]
+      },
+      "properties": {
+        "address": "63 P. Nguy\u1ec5n Khuy\u1ebfn, V\u0103n Mi\u1ebfu, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Qu\u00e1n Bia Xu\u00e2n Tr\u01b0\u1eddng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0160876,
+          105.800891
+        ]
+      },
+      "properties": {
+        "address": "30 L\u01b0u Quang V\u0169, Trung Ho\u00e0, C\u1ea7u Gi\u1ea5y, H\u00e0 N\u1ed9i",
+        "name": "Nh\u00e0 H\u00e0ng Bia S\u00e0nh \u0110i\u1ec7u"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.009258,
+          105.8313664
+        ]
+      },
+      "properties": {
+        "address": "77 P. \u0110\u1eb7ng V\u0103n Ng\u1eef, Trung T\u1ef1, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Thanh Thanh Bia h\u01a1i H\u00e0 N\u1ed9i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0186787,
+          105.8226956
+        ]
+      },
+      "properties": {
+        "address": "2R9F+F33, Mai Anh Tu\u1ea5n, Ch\u1ee3 D\u1eeba,",
+        "name": "L\u00e3o H\u1ea1c Beer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0156217,
+          105.8126787
+        ]
+      },
+      "properties": {
+        "address": "8 P. Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch, Khu t\u1eadp th\u1ec3 Nam Th\u00e0nh C\u00f4ng, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Qu\u00e1n Bia T\u01b0\u01a1i - H\u01b0\u01a1ng L\u00faa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9966519,
+          105.8282292
+        ]
+      },
+      "properties": {
+        "address": "44 P. Ho\u00e0ng V\u0103n Th\u00e1i, Kh\u01b0\u01a1ng Mai, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i",
+        "name": "Qu\u00e1n Bia H\u01a1i H\u00e0 N\u1ed9i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0189579,
+          105.8216111
+        ]
+      },
+      "properties": {
+        "address": "72 P. Mai Anh Tu\u1ea5n, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Nh\u00e0 H\u00e0ng Bia Henninger T\u00ednh Th\u00fay"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0132679,
+          105.8393503
+        ]
+      },
+      "properties": {
+        "address": "42 P. \u00d4 \u0110\u1ed3ng L\u1ea7m, Ph\u01b0\u01a1ng Li\u00ean, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Boombeer m\u01b0\u1eddng ph\u0103ng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0197415,
+          105.8104799
+        ]
+      },
+      "properties": {
+        "address": "ng\u00e1ch 40 Ng\u00f5 91 Nguy\u1ec5n Ch\u00ed Thanh, Th\u00e0nh C\u00f4ng, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i",
+        "name": "Qu\u00e1n Bia Th\u00e0nh B\u00e9o"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0134713,
+          105.824824
+        ]
+      },
+      "properties": {
+        "address": "2R7F+9WP, Quang Trung,",
+        "name": "Bia \u0110\u1ecf - Bia th\u1ee7 c\u00f4ng Pirate - Qu\u00e1n Nh\u1ecf 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0125141,
+          105.8173167
+        ]
+      },
+      "properties": {
+        "address": "48 P.Y\u00ean L\u00e3ng, L\u00e1ng H\u1ea1, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Bia H\u01a1i Huy\u1ec1n H\u01b0\u01a1ng 48 Y\u00ean L\u00e3ng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0284664,
+          105.8177513
+        ]
+      },
+      "properties": {
+        "address": "2RH9+93P, Ph\u1ed1 Ng\u1ecdc Kh\u00e1nh, Gi\u1ea3ng V\u00f5,",
+        "name": "Bia \u0110\u1ecf - Bia th\u1ee7 c\u00f4ng Pirate - Qu\u00e1n Nh\u1ecf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0073725,
+          105.8191482
+        ]
+      },
+      "properties": {
+        "address": "25 Ng. 113 P. V\u0129nh H\u1ed3, Th\u1ecbnh Quang, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Bia Huy \u1ed8p"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0107136,
+          105.8403155
+        ]
+      },
+      "properties": {
+        "address": "302 P. \u00d4 \u0110\u1ed3ng L\u1ea7m, Ph\u01b0\u01a1ng Li\u00ean, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Bia h\u01a1i L\u1ed9c V\u1eebng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0000042,
+          105.8163333
+        ]
+      },
+      "properties": {
+        "address": "129 \u0110. Nguy\u1ec5n Tr\u00e3i, Th\u01b0\u1ee3ng \u0110\u00ecnh, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i",
+        "name": "Bia H\u01a1i \u0110\u1ee9c Anh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9978586,
+          105.812054
+        ]
+      },
+      "properties": {
+        "address": "222 \u0110. Nguy\u1ec5n Tr\u00e3i, Thanh Xu\u00e2n Trung, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i",
+        "name": "Bia Heineken 222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9981489,
+          105.8292178
+        ]
+      },
+      "properties": {
+        "address": "S\u1ed1 3 P. L\u00ea Tr\u1ecdng T\u1ea5n, \u0110\u1ecbnh C\u00f4ng, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i",
+        "name": "Bia Ph\u00f2ng Kh\u00f4ng"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0089017,
+          105.8209085
+        ]
+      },
+      "properties": {
+        "address": "70 Ng. 298 T\u00e2y S\u01a1n, Ng\u00e3 T\u01b0 S\u1edf, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "V\u01b0\u1eddn Bia G Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.026646,
+          105.838698
+        ]
+      },
+      "properties": {
+        "address": "49 Ng\u00f5 Ng\u00f4 S\u1ef9 Li\u00ean, V\u0103n Mi\u1ebfu, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Qu\u00e1n Bia 49 Ng\u00f4 S\u1ef9 Li\u00ean"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0146449,
+          105.8173978
+        ]
+      },
+      "properties": {
+        "address": "165 P. Th\u00e1i H\u00e0, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Qu\u00e1n Bia H\u01a1i H\u00e0 N\u1ed9i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0192318,
+          105.8119977
+        ]
+      },
+      "properties": {
+        "address": "Unnamed Road,",
+        "name": "Qu\u00e1n Bia Minh Ph\u00edch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0305121,
+          105.827012
+        ]
+      },
+      "properties": {
+        "address": "11 P. Giang V\u0103n Minh, Kim M\u00e3, Ba \u0110\u00ecnh, H\u00e0 N\u1ed9i",
+        "name": "Nh\u00e0 H\u00e0ng Bia T\u01b0\u01a1i \u0110\u1ee9c & Th\u00e1i Lan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9999255,
+          105.8076162
+        ]
+      },
+      "properties": {
+        "address": "1 Nguy\u1ec5n Huy T\u01b0\u1edfng, Thanh Xu\u00e2n Trung, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i",
+        "name": "Bia AMY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0177745,
+          105.8117286
+        ]
+      },
+      "properties": {
+        "address": "26 P. Nguy\u00ean H\u1ed3ng, L\u00e1ng H\u1ea1, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Qu\u00e1n Bia A2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9997286,
+          105.8244301
+        ]
+      },
+      "properties": {
+        "address": "94 P. Nguy\u1ec5n Ng\u1ecdc N\u1ea1i, Kh\u01b0\u01a1ng Mai, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i",
+        "name": "Bia B\u00e1t Qu\u00e1n"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0261514,
+          105.8324868
+        ]
+      },
+      "properties": {
+        "address": "21 P. \u0110o\u00e0n Th\u1ecb \u0110i\u1ec3m, Qu\u1ed1c T\u1eed Gi\u00e1m, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Bia Tu\u1ea5n \u0110\u1ea1t"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9999336,
+          105.8304173
+        ]
+      },
+      "properties": {
+        "address": "173b \u0110. Tr\u01b0\u1eddng Chinh, Kh\u01b0\u01a1ng Mai, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i",
+        "name": "V\u01b0\u1eddn bia C\u1ea3nh H\u1ed3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0023006,
+          105.8094934
+        ]
+      },
+      "properties": {
+        "address": "28 P. Nh\u00e2n H\u00f2a, Thanh Xu\u00e2n Trung, Thanh Xu\u00e2n, H\u00e0 N\u1ed9i",
+        "name": "Bia Ph\u1ee7i 28"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0051545,
+          105.8259005
+        ]
+      },
+      "properties": {
+        "address": "2R4G+392, P. Kh\u01b0\u01a1ng Th\u01b0\u1ee3ng, Trung Li\u1ec7t,",
+        "name": "Qu\u00e1n bia Ti\u1ebfn \u0110\u1ea1t"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.027009,
+          105.8282103
+        ]
+      },
+      "properties": {
+        "address": "212 P. H\u00e0o Nam, Ch\u1ee3 D\u1eeba, \u0110\u1ed1ng \u0110a, H\u00e0 N\u1ed9i",
+        "name": "Qu\u00e1n Bia H\u01a1i H\u00e0 N\u1ed9i Li\u00ean \u0110o\u00e0n"
+      }
+    }
+  ]
+}
